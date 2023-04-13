@@ -10,5 +10,5 @@ Lic. en Ciencias de la Computación por la Universidad de Sonora, Hermosillo, M�
 
 ## Encuéntrame en
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Luis_AL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/joseluisal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jose_Luis_AL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/joseluisal)  
 [![Email](https://img.shields.io/badge/JoseLuis__AL@Outlook.com-email_personal_(respuesta_rápida)-D14836?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](mailto:JoseLuis_AL@Outlook.com)
